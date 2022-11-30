@@ -1,0 +1,15 @@
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\bin\Debug\netcoreapp3.1\MyBBSWebApi.BLL.deps.json
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\bin\Debug\netcoreapp3.1\MyBBSWebApi.BLL.dll
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\bin\Debug\netcoreapp3.1\MyBBSWebApi.BLL.pdb
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\bin\Debug\netcoreapp3.1\MyBBSWebApi.DAL.dll
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\bin\Debug\netcoreapp3.1\MyBBSWebApi.Model.dll
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\bin\Debug\netcoreapp3.1\MyBBSWebApi.DAL.pdb
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\bin\Debug\netcoreapp3.1\MyBBSWebApi.Model.pdb
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\obj\Debug\netcoreapp3.1\MyBBSWebApi.BLL.csproj.AssemblyReference.cache
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\obj\Debug\netcoreapp3.1\MyBBSWebApi.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\obj\Debug\netcoreapp3.1\MyBBSWebApi.BLL.AssemblyInfoInputs.cache
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\obj\Debug\netcoreapp3.1\MyBBSWebApi.BLL.AssemblyInfo.cs
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\obj\Debug\netcoreapp3.1\MyBBSWebApi.BLL.csproj.CoreCompileInputs.cache
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\obj\Debug\netcoreapp3.1\MyBBSWebApi.BLL.csproj.CopyComplete
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\obj\Debug\netcoreapp3.1\MyBBSWebApi.BLL.dll
+C:\Users\浩\source\repos\MyBBSWebApi.BLL\obj\Debug\netcoreapp3.1\MyBBSWebApi.BLL.pdb
