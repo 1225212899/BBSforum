@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32428.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BBS论坛开发", "BBS论坛开发.csproj", "{BB4B0554-37BF-4878-82DB-6F8641F2B0AB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{26E32670-8139-4FCC-AA87-7182D06C4482}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "委托复习", "..\委托复习\委托复习.csproj", "{4CDF71B7-DEF2-4BC9-AF88-D07D4E3D305A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "迭代器", "..\迭代器\迭代器.csproj", "{ACB3688A-DAE1-4ED2-AFFE-1E0999DFAE9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBBSWebApi.DAL", "..\MyBBSWebApi.DAL\MyBBSWebApi.DAL.csproj", "{1FDCC5AD-A48A-48B6-82ED-DA76D4E7FB87}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyBBSWebApi.BLL", "..\MyBBSWebApi.BLL\MyBBSWebApi.BLL.csproj", "{F1768EF4-E764-4A58-A02B-2BAA0D5B52CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyBBSWebApi.Model", "..\MyBBSWebApi.Model\MyBBSWebApi.Model.csproj", "{AB35BCF2-0BEF-4869-B490-AD7ABEC17D34}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB4B0554-37BF-4878-82DB-6F8641F2B0AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB4B0554-37BF-4878-82DB-6F8641F2B0AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB4B0554-37BF-4878-82DB-6F8641F2B0AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB4B0554-37BF-4878-82DB-6F8641F2B0AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4CDF71B7-DEF2-4BC9-AF88-D07D4E3D305A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CDF71B7-DEF2-4BC9-AF88-D07D4E3D305A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CDF71B7-DEF2-4BC9-AF88-D07D4E3D305A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CDF71B7-DEF2-4BC9-AF88-D07D4E3D305A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB3688A-DAE1-4ED2-AFFE-1E0999DFAE9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB3688A-DAE1-4ED2-AFFE-1E0999DFAE9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB3688A-DAE1-4ED2-AFFE-1E0999DFAE9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB3688A-DAE1-4ED2-AFFE-1E0999DFAE9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FDCC5AD-A48A-48B6-82ED-DA76D4E7FB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FDCC5AD-A48A-48B6-82ED-DA76D4E7FB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FDCC5AD-A48A-48B6-82ED-DA76D4E7FB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FDCC5AD-A48A-48B6-82ED-DA76D4E7FB87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1768EF4-E764-4A58-A02B-2BAA0D5B52CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1768EF4-E764-4A58-A02B-2BAA0D5B52CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1768EF4-E764-4A58-A02B-2BAA0D5B52CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1768EF4-E764-4A58-A02B-2BAA0D5B52CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB35BCF2-0BEF-4869-B490-AD7ABEC17D34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB35BCF2-0BEF-4869-B490-AD7ABEC17D34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB35BCF2-0BEF-4869-B490-AD7ABEC17D34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB35BCF2-0BEF-4869-B490-AD7ABEC17D34}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55B0F658-ADCE-4C73-B372-83B66246E872}
+	EndGlobalSection
+EndGlobal

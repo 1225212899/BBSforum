@@ -1,0 +1,13 @@
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\bin\Debug\netcoreapp3.1\MyBBSWebApi.DAL.deps.json
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\bin\Debug\netcoreapp3.1\MyBBSWebApi.DAL.dll
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\bin\Debug\netcoreapp3.1\MyBBSWebApi.DAL.pdb
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\bin\Debug\netcoreapp3.1\MyBBSWebApi.Model.dll
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\bin\Debug\netcoreapp3.1\MyBBSWebApi.Model.pdb
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\obj\Debug\netcoreapp3.1\MyBBSWebApi.DAL.csproj.AssemblyReference.cache
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\obj\Debug\netcoreapp3.1\MyBBSWebApi.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\obj\Debug\netcoreapp3.1\MyBBSWebApi.DAL.AssemblyInfoInputs.cache
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\obj\Debug\netcoreapp3.1\MyBBSWebApi.DAL.AssemblyInfo.cs
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\obj\Debug\netcoreapp3.1\MyBBSWebApi.DAL.csproj.CoreCompileInputs.cache
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\obj\Debug\netcoreapp3.1\MyBBSWebApi.DAL.csproj.CopyComplete
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\obj\Debug\netcoreapp3.1\MyBBSWebApi.DAL.dll
+C:\Users\浩\source\repos\MyBBSWebApi.DAL\obj\Debug\netcoreapp3.1\MyBBSWebApi.DAL.pdb

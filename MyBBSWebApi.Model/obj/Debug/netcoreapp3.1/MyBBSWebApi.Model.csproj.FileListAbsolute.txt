@@ -1,0 +1,10 @@
+C:\Users\浩\source\repos\MyBBSWebApi.Model\bin\Debug\netcoreapp3.1\MyBBSWebApi.Model.deps.json
+C:\Users\浩\source\repos\MyBBSWebApi.Model\bin\Debug\netcoreapp3.1\MyBBSWebApi.Model.dll
+C:\Users\浩\source\repos\MyBBSWebApi.Model\bin\Debug\netcoreapp3.1\MyBBSWebApi.Model.pdb
+C:\Users\浩\source\repos\MyBBSWebApi.Model\obj\Debug\netcoreapp3.1\MyBBSWebApi.Model.csproj.AssemblyReference.cache
+C:\Users\浩\source\repos\MyBBSWebApi.Model\obj\Debug\netcoreapp3.1\MyBBSWebApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\浩\source\repos\MyBBSWebApi.Model\obj\Debug\netcoreapp3.1\MyBBSWebApi.Model.AssemblyInfoInputs.cache
+C:\Users\浩\source\repos\MyBBSWebApi.Model\obj\Debug\netcoreapp3.1\MyBBSWebApi.Model.AssemblyInfo.cs
+C:\Users\浩\source\repos\MyBBSWebApi.Model\obj\Debug\netcoreapp3.1\MyBBSWebApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\浩\source\repos\MyBBSWebApi.Model\obj\Debug\netcoreapp3.1\MyBBSWebApi.Model.dll
+C:\Users\浩\source\repos\MyBBSWebApi.Model\obj\Debug\netcoreapp3.1\MyBBSWebApi.Model.pdb
